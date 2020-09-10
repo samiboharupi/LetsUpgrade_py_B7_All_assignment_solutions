@@ -1,2 +1,2 @@
-# LetsUpgrade_py_B7_D3_assignment1
-This is solution for day 3 assignments
+# LetsUpgrade_py_B7_Assignments
+This repo contains all solutions for assignments in LetsUpgarde community.
